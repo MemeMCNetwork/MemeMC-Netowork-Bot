@@ -1,7 +1,7 @@
 {
-  "name": "nobara.js",
+  "name": "MMN.BOT",
   "version": "1.1.2",
-  "description": "Bot qui vient définitivement remplacer Horizon, un projet abandonné.",
+  "description": "MemeMC Network Discord Bot!!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
